@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPongGameSharp", "PingPongGameSharp\PingPongGameSharp.csproj", "{C3BE749D-3ACA-4A6B-9D75-BA3964DADA57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3BE749D-3ACA-4A6B-9D75-BA3964DADA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BE749D-3ACA-4A6B-9D75-BA3964DADA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BE749D-3ACA-4A6B-9D75-BA3964DADA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BE749D-3ACA-4A6B-9D75-BA3964DADA57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E949D943-9CB0-40B9-B6F8-4C54644DC6C0}
+	EndGlobalSection
+EndGlobal

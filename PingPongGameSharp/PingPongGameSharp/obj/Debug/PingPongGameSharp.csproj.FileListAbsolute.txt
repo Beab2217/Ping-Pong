@@ -1,0 +1,10 @@
+C:\Users\glebd\Desktop\Карантин\PingPongGameSharp\PingPongGameSharp\bin\Debug\PingPongGameSharp.exe.config
+C:\Users\glebd\Desktop\Карантин\PingPongGameSharp\PingPongGameSharp\bin\Debug\PingPongGameSharp.exe
+C:\Users\glebd\Desktop\Карантин\PingPongGameSharp\PingPongGameSharp\bin\Debug\PingPongGameSharp.pdb
+C:\Users\glebd\Desktop\Карантин\PingPongGameSharp\PingPongGameSharp\obj\Debug\PingPongGameSharp.csprojAssemblyReference.cache
+C:\Users\glebd\Desktop\Карантин\PingPongGameSharp\PingPongGameSharp\obj\Debug\PingPongGameSharp.Form1.resources
+C:\Users\glebd\Desktop\Карантин\PingPongGameSharp\PingPongGameSharp\obj\Debug\PingPongGameSharp.Properties.Resources.resources
+C:\Users\glebd\Desktop\Карантин\PingPongGameSharp\PingPongGameSharp\obj\Debug\PingPongGameSharp.csproj.GenerateResource.cache
+C:\Users\glebd\Desktop\Карантин\PingPongGameSharp\PingPongGameSharp\obj\Debug\PingPongGameSharp.csproj.CoreCompileInputs.cache
+C:\Users\glebd\Desktop\Карантин\PingPongGameSharp\PingPongGameSharp\obj\Debug\PingPongGameSharp.exe
+C:\Users\glebd\Desktop\Карантин\PingPongGameSharp\PingPongGameSharp\obj\Debug\PingPongGameSharp.pdb
